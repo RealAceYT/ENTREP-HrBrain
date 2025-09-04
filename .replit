@@ -23,7 +23,7 @@ runButton = "Project"
 [[workflows.workflow]]
 name = "Project"
 mode = "parallel"
-author = "agent"
+author = "ace"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
@@ -31,12 +31,12 @@ args = "Start application"
 
 [[workflows.workflow]]
 name = "Start application"
-author = "agent"
+author = "ace"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "npm run dev"
 waitForPort = 5000
 
-[agent]
+[ace]
 integrations = ["javascript_openai==1.0.0", "javascript_mem_db==1.0.0"]
