@@ -1,8 +1,8 @@
-# HR Assistant System (A.C.E)
+# HR Assistant System (A.C.E) HumanAllies
 
 ## Overview
 
-A.C.E (AI-powered Complaint & Employee assistance system) is a comprehensive HR management platform that combines modern web technologies with AI capabilities to streamline employee relations, complaint management, and HR processes. The system provides both employee-facing and HR management interfaces with intelligent automation for complaint analysis, scenario training, and meeting coordination.
+A.C.E (AI-powered Complaint & Employee assistance system) or HumanAllies for short, is a comprehensive HR management platform that combines modern web technologies with AI capabilities to streamline employee relations, complaint management, and HR processes. The system provides both employee-facing and HR management interfaces with intelligent automation for complaint analysis, scenario training, and meeting coordination.
 
 ## User Preferences
 
